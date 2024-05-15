@@ -1,0 +1,39 @@
+.one
+{
+	width:25%;
+	float:left;
+	margin:13px;
+	bgcolor:red;
+	padding:14px;
+	border:1px solid red;
+	color:blue;
+
+}
+
+.two
+{
+	width:25%;
+	float:left;
+	margin:13px;
+	bgcolor:red;
+	padding:14px;
+	border:1px solid red;
+	color:green;
+
+}
+
+.three
+{
+	width:25%;
+	float:left;
+	margin:13px;
+	bgcolor:red;
+	padding:14px;
+	border:1px solid red;
+	color:red;
+
+}
+
+img{
+	border-radius:20px;
+}
